@@ -13,7 +13,7 @@ end
 fizz_buzz
 
 def bye_felicia
-  a = 15
+  a = 60
   if a % 12 == 0 && a % 5 == 0
     puts "bye felicia"
     elsif a % 12 == 0
