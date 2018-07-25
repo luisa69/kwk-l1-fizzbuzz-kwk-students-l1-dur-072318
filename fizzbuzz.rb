@@ -16,7 +16,7 @@ a = 60
     puts "bye felicia"
     elsif a % 12 == 0
     puts "bye"
-    elsif a % 11 == 0
+    elsif a % 5 == 0
     puts "felicia"
   else puts "nothing"
   end
