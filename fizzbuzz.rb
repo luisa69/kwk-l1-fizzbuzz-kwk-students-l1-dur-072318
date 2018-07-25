@@ -18,6 +18,6 @@ a = 60
     puts "bye"
     elsif a % 5 == 0
     puts "felicia"
-  else puts "nothing"
+  else puts "boi"
   end
 end 
