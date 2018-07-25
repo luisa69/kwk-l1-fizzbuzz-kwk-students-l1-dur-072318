@@ -10,6 +10,8 @@ x = 15
   end
 end
 
+fizz_buzz
+
 def bye_felicia
   a = 15
   if a % 12 == 0 && a % 5 == 0
