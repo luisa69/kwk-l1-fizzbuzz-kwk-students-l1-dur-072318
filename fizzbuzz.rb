@@ -11,7 +11,7 @@ x = 15
 end
 
 def bye_felicia
-  a = 24
+  a = 9
   if a % 12 == 0 && a % 5 == 0
     puts "bye felicia"
     elsif a % 12 == 0
