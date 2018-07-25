@@ -6,7 +6,7 @@ x = 15
   puts "buzz" 
   elsif x % 3 == 0
   puts "fizz"
-else puts "nothing"
+ else puts "nothing"
   end
 end
 
